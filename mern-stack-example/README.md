@@ -1,13 +1,19 @@
 # mern-stack-example
-**THIS CODE BASE IS FOR REFERENCE ONLY**
+
+### THIS CODE BASE IS FOR REFERENCE ONLY
+
+
+
 **(MongoDB, Express.js, React, and Node.js)**
 
-![](https://github.com/mimodevs/C12-mimoville/blob/main/_docs/mern-howdoes.svg)
-Mern Stack code for the  [Mern Tutorial](https://www.mongodb.com/languages/mern-stack-tutorial)
+
+### ![](https://github.com/mimodevs/C12-mimoville/blob/main/_docs/mern-howdoes.svg)
 
 
 
 ## Instructions
+
+### Mern Stack code from the  [Mern Tutorial](https://www.mongodb.com/languages/mern-stack-tutorial)
 
 Follow the instructions from the tutorial to connect to the database and post successfully.
 
